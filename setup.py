@@ -8,7 +8,7 @@ setup(
     version='0.1',
     author='Joseph Doundoulakis',
     email='iosif.doundoulakis@outlook.com',
-    description='Technical demonstration packaged for Lobelia // Code sample',
+    description='EO code sample',
     install_requires=requirements,
 )
 
