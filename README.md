@@ -1,5 +1,9 @@
-# Technical Code Sample
-A technical competency demonstration package authored by Joseph Doundoulakis for GIS and EO related job positions.
+# Google Earth Engine Flood Impact Showcase
+Authored by Joseph Doundoulakis as a showcase of Earth Observation capabilities in evaluating flood impacts.
+
+## Case study
+Assesing the impact of storm Gloria in the municipalities of Tordera, Parafolls and Malgrat de Mar, in Catalunya, Spain, during January of 2020.
+
 
 
 ## Installing and running on a Unix environment
