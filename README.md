@@ -13,7 +13,7 @@ Assesing the impact of storm Gloria in the municipalities of Tordera, Parafolls 
 ![Flood image](images/flooded-sar.png "Sentinel-1 image with flood extent information.")
 
 
-## Installing and running on a Unix environment
+## Installing and running in a Unix environment
 Please use the provided ```run.sh``` bash script for running the code sample, as it handles the installation of an isolated virtual environment with all the dependencies of the code sample.
 
 i.e.
