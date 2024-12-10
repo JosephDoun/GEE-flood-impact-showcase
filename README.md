@@ -14,18 +14,16 @@ Assesing the impact of storm Gloria in the municipalities of Tordera, Parafolls 
 
 
 ## Installing and running in a Unix environment
-Please use the provided ```run.sh``` bash script for running the code sample, as it handles the installation of an isolated virtual environment with all the dependencies of the code sample.
+Please use the provided ```run.sh``` bash script to run the notebook, as it handles the installation of dependencies in an isolated virtual environment.
 
-i.e.
+**Example:**
 ```bash
 $ ./run.sh
 ```
-
 The installation occurs only during the first run.
 
 ## Select the correct ipython kernel
-Switch to the ```eo_code_sample``` kernel in jupyter before running the notebook, if not selected by default.
-
+Switch to the ```gee-flood-impact``` kernel in the notebook UI before running, if not selected by default.
 
 ## Uninstalling
-Simply delete the directory.
+Simply delete the directory. The notebook kernel is uninstalled automatically.
