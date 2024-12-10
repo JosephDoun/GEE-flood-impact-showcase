@@ -10,6 +10,7 @@ setup(
     email='iosif.doundoulakis@outlook.com',
     description='GEE Flood Impact Showcase',
     install_requires=requirements,
+    packages=[]
 )
 
 
