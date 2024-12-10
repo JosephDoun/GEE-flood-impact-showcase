@@ -10,7 +10,8 @@ Assesing the impact of storm Gloria in the municipalities of Tordera, Parafolls 
 ![Area of interest](images/area.png "Area of interest north of Barcelona.")
 
 ### Flooded area as seen in a **Sentinel-1** SAR image.
-![Flood image](images/flooded-sar.png "Sentinel-1 image with flood extent information.")
+![Flood image](images/flood-img.png "Sentinel-1 image with flood extent information.")
+![Flood image polygons](images/flood-img-extracted.png "Sentinel-1 image with extracted flood regions.")
 
 
 ## Installing and running in a Unix environment
