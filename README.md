@@ -7,11 +7,11 @@ Authored by Joseph Doundoulakis in 2022 as a showcase of Earth Observation capab
 Assesing the impact of storm Gloria in the municipalities of Tordera, Parafolls and Malgrat de Mar, in northern Catalunya, Spain, during January of 2020.
 
 ### Area of interest north of Barcelona.
-![Area of interest](images/area.png "Area of interest north of Barcelona.")
+![Area of interest](images/area.jpg "Area of interest north of Barcelona.")
 
 ### Flooded area as seen in a **Sentinel-1** SAR image.
-![Flood image](images/flood-img.png "Sentinel-1 image with flood extent information.")
-![Flood image polygons](images/flood-img-extracted.png "Sentinel-1 image with extracted flood regions.")
+![Flood image](images/flood-img.jpg "Sentinel-1 image with flood extent information.")
+![Flood image polygons](images/flood-img-extracted.jpg "Sentinel-1 image with extracted flood regions.")
 
 
 ## Installing and running in a Unix environment
