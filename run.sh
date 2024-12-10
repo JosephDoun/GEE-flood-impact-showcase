@@ -16,7 +16,7 @@
 	fi
 }
 
-python -m ipykernel install --user --name .venv --display-name "eo_code_sample";
+python -m ipykernel install --user --name .venv --display-name "gee-flood-impact";
 jupyter notebook flood_impact_assessment.ipynb --allow-root;
 jupyter-kernelspec uninstall .venv -y;
 
